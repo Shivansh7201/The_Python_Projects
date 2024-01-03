@@ -28,9 +28,12 @@
 
 ## 🎨 Cool and Creative Logos
 
-![Project1 Logo](link_to_creative_project1_logo.png)  
-![Project2 Logo](link_to_creative_project2_logo.png)  
-![Project3 Logo](link_to_creative_project3_logo.png)
+![Project1 Logo](![download (3)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/10b9dd57-db14-4a8c-a23b-5109fc66524b)
+)  
+![Project2 Logo](![download (4)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/9ac24909-f68a-4b95-afdf-3972a0f870f3)
+)  
+![Project3 Logo](![images](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/fc988bee-68af-4dcc-9598-1d4cdf67a23b)
+)
 
 ## 🌐 Explore Our Projects
 
