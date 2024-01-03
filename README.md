@@ -35,6 +35,7 @@
 ![Project3 Logo](![images](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/fc988bee-68af-4dcc-9598-1d4cdf67a23b)
 )
 
+
 ## 🌐 Explore Our Projects
 
 1. **Project Name 1:** Embark on a visual odyssey with the enchanting allure of Project 1.  
