@@ -26,27 +26,6 @@
 - Selenium
 - and more!
 
-## 🎨 Cool and Creative Logos
-
-![Project1 Logo](![download (3)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/10b9dd57-db14-4a8c-a23b-5109fc66524b)
-)  
-![Project2 Logo](![download (4)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/9ac24909-f68a-4b95-afdf-3972a0f870f3)
-)  
-![Project3 Logo](![images](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/fc988bee-68af-4dcc-9598-1d4cdf67a23b)
-)
-
-
-## 🌐 Explore Our Projects
-
-1. **Project Name 1:** Embark on a visual odyssey with the enchanting allure of Project 1.  
-   ![Explore Project 1](link_to_project1_code.png)
-
-2. **Project Name 2:** Dive into the sleek and sophisticated universe of Project 2.  
-   ![Explore Project 2](link_to_project2_code.png)
-
-3. **Project Name 3:** Uncover the avant-garde applications of Project 3, where creativity meets code.  
-   ![Explore Project 3](link_to_project3_code.png)
-
 ## 🌟 How to Contribute
 
 1. Fork the repository.
@@ -55,7 +34,7 @@
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 100 Projects in 100 Days - The Project Based Learning Approach
 
 This is the main repository for all of the projects in the course.
 
@@ -123,33 +102,9 @@ The MIT License
 
 Copyright (c) 2020-2024 Codekarr (https://www.youtube.com/@codekarr101)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
-
-
-
-
- 
-
 ## 📌 Stay Connected
 
-- Follow us on [Twitter](https://twitter.com/ThePythonProjects) for updates, project highlights, and creative sparks!
+- Follow us on [**Anywhere you like**](https://beacons.ai/shivansh7201) for updates, project highlights, and creative sparks!
 - Join our vibrant community on [Discord](link_to_discord) to connect with Python visionaries, seek inspiration, and share your artistic coding experiences.
 
 Let's paint a masterpiece in code together! Happy coding! 🐍🎨
