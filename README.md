@@ -1,6 +1,6 @@
 # The_Python_Projects
 
-![Python Logo](![download (2)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/b0dfa24a-91f4-4161-ba5f-d3bd40901691)
+(![download (2)](https://github.com/Shivansh7201/The_Python_Projects/assets/105603160/b0dfa24a-91f4-4161-ba5f-d3bd40901691)
 )
 
 
